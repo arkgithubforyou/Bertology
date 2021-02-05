@@ -17,8 +17,8 @@ This seminar provides an introduction to the state of Bertology. We start with t
 ### List of Papers
 
 #### The transformer models<br/>
-  + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding] (https://www.aclweb.org/anthology/N19-1423/)<br/>
-  + [The taxonomy of Transformers] (https://arxiv.org/pdf/2003.08271.pdf)
+  + [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423/)<br/>
+  + [The taxonomy of Transformers](https://arxiv.org/pdf/2003.08271.pdf)
   
 #### What does BERT know about...<br/>
 - Syntax.<br/>
