@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/arkgithubforyou/innlpm20/edit/gh-pages/index.md) to and preview the content for your website in Markdown files.
+---------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Summer Semester Semester 2019/20<br/>
+<!--- [Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)<br/> -->
+Zhai Fangzhou <br/>
+Thursday 12:15–13:45, Seminarraum 1.12 C7.2<br/>
+Master Seminar <br/>
 
-### Markdown
+---
+### Introduction
+Models in the transformer family have been improving state of the art in various, if not all, NLP tasks. However, our understanding of the reason behind its success is still limited. The term _Bertology_ refers to the area of research that collects the investigations of the mechanism of these models, including how they work, what information they encode, etc., together with the methodologies emerged from these efforts.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This seminar provides an introduction to the state of Bertology. We start with the architecture of the transformer models. Later on, we discuss a number of aspects of Bertology: what syntactic / semantic information are encoded in these models; what these models know in terms of common sense knowledge; whether these giant models fully exploits all their parameters; the environmental concerns behind these large models, etc.. We conclude with the discussion of two meta-level questions: do these models _understand_ natural language, and what the next generation of general purpose representation for NLP could look like.
 
-```markdown
-Syntax highlighted code block
+---
+### List of Papers
 
-# Header 1
-## Header 2
-### Header 3
+#### The transformer models
+  [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding] (https://www.aclweb.org/anthology/N19-1423/)
+  [The taxonomy of Transformers] (https://arxiv.org/pdf/2003.08271.pdf)
+  
+#### What does BERT know about...
+- Syntax.
+  [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/)
+- Semantics.
+  [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://www.aclweb.org/anthology/2020.tacl-1.3/)
+  [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534/)
+  [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)
+- World Knowledge
+  [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250/)
+  
+#### How does BERT _really_ work
+- Transferability
+  [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)
+- Where and how to find information
+  [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)
+  [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)
+- Does BERT really need so many parameters?
+  [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)
+  [Quantity doesn’t buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)
+  
+#### How expensive is BERT?
+  [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)
 
-- Bulleted
-- List
+#### At the meta-level...
+- Does huge models really _understand_ language?
+  [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)
+- How will the next generation NLP representation look like?
+  [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)
 
-1. Numbered
-2. List
+---
 
-**Bold** and _Italic_ and `Code` text
+### Prerequisites
+A good knowledge of both neural networks and computational linguistics is necessary for meaningful participation, which should be justified by finishing Professor Koller's [Computational Linguistics](https://coli-saar.github.io/cl20/) and Professor Klakow's [Neural Networks: Implementation and Application](https://teaching.lsv.uni-saarland.de/nnia/). However, all other convincing arguments are acceptable. 
 
-[Link](url) and ![Image](src)
-```
+### Evaluation
+There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- present a selected paper;
+- write a brief summary (2-3 pages) of Bertology as a research direction.
 
-### Jekyll Themes
+and of course, attend regularly.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arkgithubforyou/innlpm20/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
