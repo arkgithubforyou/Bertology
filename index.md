@@ -54,6 +54,8 @@ This seminar provides an introduction to the state of Bertology. We start with t
 ### Prerequisites
 A good knowledge of both neural networks and computational linguistics is necessary for meaningful participation, which should be justified by finishing Professor Koller's [Computational Linguistics](https://coli-saar.github.io/cl20/) and Professor Klakow's [Neural Networks: Implementation and Application](https://teaching.lsv.uni-saarland.de/nnia/). However, all other convincing arguments are acceptable. 
 
+---
+
 ### Evaluation
 There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
 
@@ -61,6 +63,8 @@ There are usually two goals behind a seminar: **(1)** familiarize, and hopefully
 - write a brief summary (2-3 pages) of Bertology as a research direction.
 
 and of course, attend regularly.
+
+---
 
 ### Contact
 For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
