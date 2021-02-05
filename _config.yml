@@ -1,1 +1,6 @@
 theme: jekyll-theme-midnight
+
+baseurl: /bert21
+
+coursetitle: The state of bertology: what we do and do not know about transformer models
+semester: SS 2020/21
