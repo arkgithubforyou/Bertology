@@ -74,6 +74,8 @@ There are usually two goals behind a seminar: **(1)** familiarize, and hopefully
 
 and of course, attend regularly.
 
+If you want to write a term paper, just get in touch.
+
 ---
 
 ### Contact
