@@ -1,7 +1,7 @@
 ---
 ## The state of BERTology
 
-Summer Semester Semester 2019/20<br/>
+Summer Semester 2021<br/>
 <!--- [Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)<br/> -->
 Zhai Fangzhou <br/>
 Thursday 12:15–13:45, Seminarraum 1.12 C7.2<br/>
@@ -55,15 +55,9 @@ This seminar provides an introduction to the state of Bertology. We start with t
 ### Prerequisites
 A good knowledge of both neural networks and computational linguistics is necessary for meaningful participation, which is expected to be justified by finishing Professor Koller's [Computational Linguistics](https://coli-saar.github.io/cl20/) and Professor Klakow's [Neural Networks: Implementation and Application](https://teaching.lsv.uni-saarland.de/nnia/). However, all other convincing arguments are acceptable. 
 
+
+
 ---
-
-### Registration
-Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before April 1st 00:00 UST+1**, to include.
-- Your information: full name and matrikulation number.
-- A brief, honest argument that you fulfil the prerequisites (e.g. **I've passed both courses.** or **I am familiar with both disciplines.**).
-- An ordered list of your prefered papers for presentation that includes at least 3 items. 
-
-
 ### Evaluation
 There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
 
