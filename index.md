@@ -70,7 +70,7 @@ Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before 
 There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
 
 - present a selected paper;
-- write a brief summary (2-3 pages) of Bertology as a research direction.
+- write a brief summary (2-3 pages) of Bertology as a research direction at the end of the seminar.
 
 and of course, attend regularly.
 
