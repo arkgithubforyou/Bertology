@@ -58,10 +58,13 @@ A good knowledge of both neural networks and computational linguistics is necess
 ---
 
 ### Registration
-Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before April 1st 00:00 UST+1**, to include.
+Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before April 1st 00:00 UST+1**, to include
 - Your information: full name and matrikulation number.
 - A brief, honest argument that you fulfil the prerequisites (e.g. **I've passed both courses.** or **I am familiar with both disciplines.** If you are taking some of them this semester and feel confident to at least pass, it is also ok).
 - An ordered list of your prefered papers for presentation that includes at least 3 items. 
+
+Registration is first come first serve for those who fulfil the prerequisitse; late registrations will be considered if more places are available. Paper assignment will be performed by the Hungaranian algorithm for registrations before April 1st, and first come first serve afterwards.
+
 
 ---
 
