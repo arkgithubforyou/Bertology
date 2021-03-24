@@ -2,10 +2,10 @@
 ---------
 ## The state of BERTology
 ---
-Summer Semester Semester 2021<br/>
+Summer Semester 2021<br/>
 <!--- [Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)<br/> -->
 Zhai Fangzhou <br/>
-Thursday 12:15–13:45, Seminarraum 1.12 C7.2<br/>
+April 15th - July 22nd, Thursday 12:15–13:45, Seminarraum 1.12 C7.2<br/>
 Master Seminar <br/>
 
 ---
