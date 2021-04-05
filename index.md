@@ -15,6 +15,25 @@ Models in the transformer family have been improving state of the art in various
 This seminar provides an introduction to the state of Bertology. We start with the architecture of the transformer models. Later on, we discuss a number of aspects of Bertology: what syntactic / semantic information are encoded in these models; what these models know in terms of common sense knowledge; whether these giant models fully exploits all their parameters; the environmental concerns behind these large models, etc.. We conclude with the discussion of two meta-level questions: do these models _understand_ natural language, and what the next generation of general purpose representation for NLP could look like.
 
 ---
+### Schedule
+All registrations I received was qualified. If you did try to register and do not find your name here, please get in touch. The code for the assignment is attached to this repo, you may check in case of interest :)
+
+|Date |Presenter|Paper|
+|---  |---      |---|
+|April 15|Zhai Fangzhou|(First Meeting)|
+|April 29|Pin-Jie Lin| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|
+|May 6|Katharina Stein| What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models|
+|May 13|Leonie Harter| What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?|
+|May 20|Peilu Lin| Language Models as Knowledge Bases?|
+|May 27|Meng Li| Linguistic Knowledge and Transferability of Contextual Representations|
+|June 3|Pavle Markovic| Information-Theoretic Probing with Minimum Description Length|
+|June 10|Sangeet Sagar| Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned|
+|June 17|Axel Allén| Energy and Policy Considerations for Deep Learning in NLP|
+|June 24|Annegret Janzso| Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data|
+|July 1|Rricha Jalota| Can a Fruit Fly Learn Word Embeddings?|
+
+---
+
 ### List of Papers
 **You are welcome to propose papers not in this list as well.**
 #### The transformer models<br/>
