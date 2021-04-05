@@ -34,6 +34,48 @@ All registrations I received was qualified. If you did try to register and do no
 
 ---
 
+
+
+### Prerequisites
+A good knowledge of both neural networks and computational linguistics is necessary for meaningful participation, which should be justified by finishing Professor Koller's [Computational Linguistics](https://coli-saar.github.io/cl20/) and Professor Klakow's [Neural Networks: Implementation and Application](https://teaching.lsv.uni-saarland.de/nnia/). However, all other convincing arguments are acceptable. 
+
+---
+
+### Registration
+Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before April 1st 00:00 UST+1**, to include
+- Your information: full name and matrikulation number.
+- A brief, honest argument that you fulfil the prerequisites (e.g. **I've passed both courses.** or **I am familiar with both disciplines.** If you are taking some of them this semester and feel confident to at least pass, it is also ok).
+- An ordered list of your prefered papers for presentation that includes at least 3 items. 
+
+Registration is first come first serve for those who fulfil the prerequisites; late registrations will be considered if more places are available. Paper assignment will be performed by the Hungarian algorithm for registrations before April 1st (I will run it on April 2nd, no worry), and first come first serve afterwards.
+
+
+---
+
+
+### Evaluation
+There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
+
+- present a selected paper;
+- write a brief summary (2-3 pages) of Bertology as a research direction at the end of the seminar.
+
+and of course, attend regularly.
+
+### Term Paper
+There is in general no constraint on what you do other than relevance to the discipline. For example, you could
+1. Write a survey on a relevant topic or
+2. Raise a point and provide some empirical support or
+3. Do a small project.
+
+Please get in touch for a meeting to discuss your plan or ideas if you want to write a term paper.
+
+---
+
+### Contact
+For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
+
+---
+
 ### List of Papers
 **You are welcome to propose papers not in this list as well.**
 #### The transformer models<br/>
@@ -70,35 +112,3 @@ All registrations I received was qualified. If you did try to register and do no
 15. [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)
 
 ---
-
-### Prerequisites
-A good knowledge of both neural networks and computational linguistics is necessary for meaningful participation, which should be justified by finishing Professor Koller's [Computational Linguistics](https://coli-saar.github.io/cl20/) and Professor Klakow's [Neural Networks: Implementation and Application](https://teaching.lsv.uni-saarland.de/nnia/). However, all other convincing arguments are acceptable. 
-
----
-
-### Registration
-Please send an email to [Zhai Fangzhou](mailto:thearkforyou@gmail.com) **before April 1st 00:00 UST+1**, to include
-- Your information: full name and matrikulation number.
-- A brief, honest argument that you fulfil the prerequisites (e.g. **I've passed both courses.** or **I am familiar with both disciplines.** If you are taking some of them this semester and feel confident to at least pass, it is also ok).
-- An ordered list of your prefered papers for presentation that includes at least 3 items. 
-
-Registration is first come first serve for those who fulfil the prerequisites; late registrations will be considered if more places are available. Paper assignment will be performed by the Hungarian algorithm for registrations before April 1st (I will run it on April 2nd, no worry), and first come first serve afterwards.
-
-
----
-
-
-### Evaluation
-There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
-
-- present a selected paper;
-- write a brief summary (2-3 pages) of Bertology as a research direction at the end of the seminar.
-
-and of course, attend regularly.
-
-If you want to write a term paper, just get in touch.
-
----
-
-### Contact
-For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
