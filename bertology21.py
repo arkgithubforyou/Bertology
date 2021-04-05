@@ -27,7 +27,7 @@ students = {
     0: ['Annegret Janzso', '2568385', 's8anjanz@stud.uni-saarland.de', [13, 0, 14, 7]],
     1: ['Peilu Lin', '7010601', 'peli00002@stud.uni-saarland.de', [6, 8, 12]],
     2: ['Meng Li', '7010888', 'meli00001@stud.uni-saarland.de', [7, 6, 13]],
-    3: ['Leonie Harter', '?', 'leonie-harter@web.de', [5, 2, 4]],
+    3: ['Leonie Harter', '2563394', 'leonie-harter@web.de', [5, 2, 4]],
     4: ['Rricha Jalota', '7010592', 'rrja00001@stud.uni-saarland.de', [14, 8, 13, 6]],
     5: ['Katharina Stein', '2563513', 'kstein@coli.uni-saarland.de', [3, 6, 5]],
     6: ['Sangeet Sagar', '7009050', 'sasa00001@stud.uni-saarland.de', [8, 10, 6]],
@@ -46,8 +46,10 @@ for student_index, student_info in students.items():
         weight_matrix[student_index][paper_index] = max_weight - paper_index_index
 
 x, y = scipy.optimize.linear_sum_assignment(-weight_matrix)
-for index in range(10):
-    print(f'{students[int(x[index])][0]}: {papers[int(y[index])]}')
+indices = sorted(list(range(10)), key=lambda stud_id: y[stud_id])
+
+for index in indices:
+    print(f'|{students[int(x[index])][0]}| {papers[int(y[index])]}|')
 
 # Annegret Janzso: Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data
 # Peilu Lin: Language Models as Knowledge Bases?
