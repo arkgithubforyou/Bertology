@@ -31,6 +31,7 @@ All registrations I received was qualified. If you did try to register and do no
 |June 17|Axel Allén| Energy and Policy Considerations for Deep Learning in NLP|
 |June 24|Annegret Janzso| Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data|
 |July 1|Rricha Jalota| Can a Fruit Fly Learn Word Embeddings?|
+|July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| Revealing the Dark Secrets of BERT|
 
 ---
 
