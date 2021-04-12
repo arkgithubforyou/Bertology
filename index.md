@@ -25,8 +25,8 @@ All registrations I received was qualified. If you did try to register and do no
 |May 6|Katharina Stein| What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models|
 |May 13|Leonie Harter| What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?|
 |May 20|Peilu Lin| Language Models as Knowledge Bases?|
-|May 27|Meng Li| Linguistic Knowledge and Transferability of Contextual Representations|
-|June 3|Pavle Markovic| Information-Theoretic Probing with Minimum Description Length|
+|May 27|Pavle Markovic| Information-Theoretic Probing with Minimum Description Length|
+|June 3|Meng Li| Linguistic Knowledge and Transferability of Contextual Representations|
 |June 10|Sangeet Sagar| Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned|
 |June 17|Axel Allén| Energy and Policy Considerations for Deep Learning in NLP|
 |June 24|Annegret Janzso| Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data|
