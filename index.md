@@ -5,7 +5,7 @@
 Summer Semester 2021<br/>
 <!--- [Prof. Dr. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)<br/> -->
 Zhai Fangzhou <br/>
-April 15th - July 22nd, Thursday 12:15–13:45, Seminarraum 1.12 C7.2<br/>
+April 15th - July 22nd, Thursday 12:15–13:45, https://zoom.us/s/3679328022?pwd=TkYzSk5nNDdudCtPNnExUHVXTlEzQT09<br/>
 Master Seminar <br/>
 
 ---
