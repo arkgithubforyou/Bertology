@@ -34,11 +34,12 @@ students = {
     7: ['Pavle Markovic', '7007913', 'markovic.pavle@outlook.com', [9, 7, 10, 8]],
     8: ['Axel Allén', '2579024', 's8axalle@stud.uni-saarland.de', [8, 10, 3, 12, 14]],
     9: ['Pin-Jie Lin', '7010904', 'pjlintw@gmail.com', [0, 10, 2, 6]],
-    10: ['Suruthai Noon Lywen Pokaratsiri Goldstein', '2581469', 'supoka@coli.uni-saarland.de', [8, 3, 6, 13]]
+    10: ['Suruthai Noon Lywen Pokaratsiri Goldstein', '2581469', 'supoka@coli.uni-saarland.de', [8, 3, 6, 13]],
+    11: ['Nora Graichen', '2568324', 'graichen@coli.uni-saarland.de', [11]]
 }
 
 emails = ';'.join([students[ind][-2] for ind in students])
-# s8anjanz@stud.uni-saarland.de;peli00002@stud.uni-saarland.de;meli00001@stud.uni-saarland.de;leonie-harter@web.de;rrja00001@stud.uni-saarland.de;kstein@coli.uni-saarland.de;sasa00001@stud.uni-saarland.de;markovic.pavle@outlook.com;s8axalle@stud.uni-saarland.de;pjlintw@gmail.com;supoka@coli.uni-saarland.de
+# s8anjanz@stud.uni-saarland.de;peli00002@stud.uni-saarland.de;meli00001@stud.uni-saarland.de;leonie-harter@web.de;rrja00001@stud.uni-saarland.de;kstein@coli.uni-saarland.de;sasa00001@stud.uni-saarland.de;markovic.pavle@outlook.com;s8axalle@stud.uni-saarland.de;pjlintw@gmail.com;supoka@coli.uni-saarland.de;graichen@coli.uni-saarland.de; graichen@coli.uni-saarland.de;kellert-olga@gmx.de
 
 weight_matrix = np.zeros(shape=[11, 15])
 for student_index, student_info in students.items():
@@ -46,18 +47,7 @@ for student_index, student_info in students.items():
         weight_matrix[student_index][paper_index] = max_weight - paper_index_index
 
 x, y = scipy.optimize.linear_sum_assignment(-weight_matrix)
-indices = sorted(list(range(10)), key=lambda stud_id: y[stud_id])
+indices = sorted(list(range(11)), key=lambda stud_id: y[stud_id])
 
 for index in indices:
     print(f'|{students[int(x[index])][0]}| {papers[int(y[index])]}|')
-
-# Annegret Janzso: Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data
-# Peilu Lin: Language Models as Knowledge Bases?
-# Meng Li: Linguistic Knowledge and Transferability of Contextual Representations
-# Leonie Harter: What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?
-# Rricha Jalota: Can a Fruit Fly Learn Word Embeddings?
-# Katharina Stein: What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models
-# Sangeet Sagar: Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned
-# Pavle Markovic: Information-Theoretic Probing with Minimum Description Length
-# Axel Allén: Energy and Policy Considerations for Deep Learning in NLP
-# Pin-Jie Lin: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
