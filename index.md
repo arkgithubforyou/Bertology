@@ -9,6 +9,11 @@ April 15th - July 22nd, Thursday 12:15–13:45, in [this](https://zoom.us/s/3679
 Master Seminar <br/>
 
 ---
+### NOTE 
+if you are registered, please vote here for a few irregular meeting slots in the weeks of May 13th, June 3rd and May 27th, before April 29th:
+https://doodle.com/poll/9k37dyw3g44k23ud?utm_source=poll&utm_medium=link 
+
+---
 ### Introduction
 Models in the transformer family have been improving state of the art in various, if not all, NLP tasks. However, our understanding of the reason behind its success is still limited. The term _Bertology_ refers to the area of research that collects the investigations of the mechanism of these models, including how they work, what information they encode, etc., together with the methodologies emerged from these efforts.
 
@@ -21,18 +26,18 @@ All registrations I received was qualified. If you did try to register and do no
 |Date |Presenter|Paper|
 |---  |---      |---|
 |April 15|Zhai Fangzhou|(First Meeting)|
-|April 29|Pin-Jie Lin| BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding|
-|May 6|Katharina Stein| What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models|
-|May 13|Leonie Harter| What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?|
-|May 20|Peilu Lin| Language Models as Knowledge Bases?|
-|May 27|Pavle Markovic| Information-Theoretic Probing with Minimum Description Length|
-|June 3|Meng Li| Linguistic Knowledge and Transferability of Contextual Representations|
-|June 10|Sangeet Sagar| Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned|
-|June 17|Axel Allén| Energy and Policy Considerations for Deep Learning in NLP|
-|June 24|Annegret Janzso| Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data|
-|July 1|Rricha Jalota| Can a Fruit Fly Learn Word Embeddings?|
-|July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| Revealing the Dark Secrets of BERT|
-|July 15|Nora Graichen|Quantity doesn’t buy quality syntax with neural language models|
+|April 29|Pin-Jie Lin| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423/)|
+|May 6|Katharina Stein| [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://www.aclweb.org/anthology/2020.tacl-1.3/)|
+|May 13|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
+|May 20|Peilu Lin| [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250/)|
+|May 27|Pavle Markovic| [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)|
+|June 3|Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)|
+|June 10|Sangeet Sagar| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)|
+|June 17|Axel Allén| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)|
+|June 24|Annegret Janzso| [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)|
+|July 1|Rricha Jalota| [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)|
+|July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)|
+|July 15|Nora Graichen|[Quantity doesn’t buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)|
 
 ---
 
