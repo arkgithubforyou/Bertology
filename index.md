@@ -10,8 +10,8 @@ in [this](https://zoom.us/s/3679328022?pwd=TkYzSk5nNDdudCtPNnExUHVXTlEzQT09) zoo
 
 ---
 ### NOTE 
-if you are registered, please vote here for a few irregular meeting slots in the weeks of May 13th, June 3rd and May 27th, before April 29th:
-https://doodle.com/poll/9k37dyw3g44k23ud?utm_source=poll&utm_medium=link 
+if you are registered, please vote [here](https://doodle.com/poll/9k37dyw3g44k23ud?utm_source=poll&utm_medium=link) for a few irregular meeting slots in the weeks of May 13th, June 3rd and May 27th, **before April 29th**.
+
 
 ---
 ### Introduction
