@@ -85,35 +85,6 @@ For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
 
 ---
 
-### List of Papers
-**You are welcome to propose papers not in this list as well.**
-#### The transformer models<br/>
-1. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423/)<br/>
-2. [The taxonomy of Transformers](https://arxiv.org/pdf/2003.08271.pdf)
-  
-#### What does BERT know about...<br/>
-- Syntax.<br/>
-3. [A Structural Probe for Finding Syntax in Word Representations](https://www.aclweb.org/anthology/N19-1419/)<br/>
-- Semantics.<br/>
-4. [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://www.aclweb.org/anthology/2020.tacl-1.3/)<br/>
-5. [Do NLP Models Know Numbers? Probing Numeracy in Embeddings](https://www.aclweb.org/anthology/D19-1534/)<br/>
-6. [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)<br/>
-- World Knowledge<br/>
-7. [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250/)<br/>
-  
-#### How does BERT _really_ work
-- Transferability<br/>
-8. [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)<br/>
-- Where and how to find information<br/>
-9. [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)<br/>
-10. [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)<br/>
-- Does BERT really need so many parameters?<br/>
-11. [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)<br/>
-12. [Quantity doesn’t buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)<br/>
-  
-#### How expensive is BERT?<br/>
-13. [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)<br/>
-
 #### At the meta-level...
 - Does huge models really _understand_ language?
 14. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)
