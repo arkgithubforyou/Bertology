@@ -10,7 +10,7 @@ in [this](https://zoom.us/s/3679328022?pwd=TkYzSk5nNDdudCtPNnExUHVXTlEzQT09) zoo
 
 ---
 ### NOTE 
-if you are registered, please vote [here](https://doodle.com/poll/37r8wsc3hz34nx4u?utm_campaign=poll_added_participant_admin&utm_medium=email&utm_source=poll_transactional&utm_content=gotopoll-cta#table) for **the second round** of irregular meeting slots  **before May 6th**.
+The schedule has been updated according to the votes.
 
 
 ---
@@ -21,23 +21,25 @@ This seminar provides an introduction to the state of Bertology. We start with t
 
 ---
 ### Schedule
-All registrations I received was qualified. If you did try to register and do not find your name here, please get in touch. The code for the assignment is attached to this repo, you may check in case of interest :)
+The code for the assignment is attached to this repo, you may check in case of interest :)
+Reminder: the ACL anthology provides video recordings for the presentation of some recent papers, which should be useful.
 
 |Date |Presenter|Paper|
 |---  |---      |---|
 |April 15|Zhai Fangzhou|(First Meeting)|
 |April 29|Pin-Jie Lin| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423/)|
 |May 6|Katharina Stein| [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://www.aclweb.org/anthology/2020.tacl-1.3/)|
-|May 13|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
 |May 20|Peilu Lin| [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250/)|
 |May 27|Pavle Markovic| [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)|
-|June 3|Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)|
+|June 7, 9am|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
 |June 10|Sangeet Sagar| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)|
 |June 17|Axel Allén| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)|
+|June 21, 1pm|Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)|
 |June 24|Annegret Janzso| [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)|
 |July 1|Rricha Jalota| [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)|
 |July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)|
 |July 15|Nora Graichen|[Quantity doesn’t buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)|
+|July 22|Olga Kellert|[An Unsupervised Sentence Embedding Method by Mutual Information Maximization](https://www.aclweb.org/anthology/2020.emnlp-main.124/)|
 
 ---
 
