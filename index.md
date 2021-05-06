@@ -84,11 +84,3 @@ Please get in touch for a meeting to discuss your plan or ideas if you want to w
 For questions, mail to: [Zhai Fangzhou](mailto:thearkforyou@gmail.com)
 
 ---
-
-#### At the meta-level...
-- Does huge models really _understand_ language?
-14. [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)
-- How will the next generation NLP representation look like?
-15. [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)
-
----
