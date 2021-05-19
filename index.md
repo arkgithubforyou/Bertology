@@ -29,7 +29,7 @@ Reminder: the ACL anthology provides video recordings for the presentation of so
 |April 15|Zhai Fangzhou|(First Meeting)|
 |April 29|Pin-Jie Lin| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://www.aclweb.org/anthology/N19-1423/)|
 |May 6|Katharina Stein| [What BERT Is Not: Lessons from a New Suite of Psycholinguistic Diagnostics for Language Models](https://www.aclweb.org/anthology/2020.tacl-1.3/)|
-|May 20|Peilu Lin| [Language Models as Knowledge Bases?](https://www.aclweb.org/anthology/D19-1250/)|
+|May 20|Zhai Fangzhou| Probing Transformers for Script Knowledge|
 |May 27|Pavle Markovic| [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)|
 |June 7, 9am|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
 |June 10|Sangeet Sagar| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)|
