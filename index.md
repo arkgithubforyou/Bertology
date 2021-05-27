@@ -76,7 +76,7 @@ There is in general no constraint on what you do other than relevance to the dis
 2. Raise a point and provide some empirical support or
 3. Do a small project.
 
-Please get in touch for a meeting to discuss your plan or ideas if you want to write a term paper.
+Please get in touch for a meeting to discuss your plan or ideas if you want to write a term paper. There is no hard constraint on the deadline, but we should agree on a schedule when we start.
 
 ---
 
