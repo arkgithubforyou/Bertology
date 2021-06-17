@@ -33,13 +33,12 @@ Reminder: the ACL anthology provides video recordings for the presentation of so
 |May 27|Pavle Markovic| [Information-Theoretic Probing with Minimum Description Length](https://www.aclweb.org/anthology/2020.emnlp-main.14.pdf)|
 |June 10|Sangeet Sagar| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)|
 |June 14|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
-|June 17|Axel Allén| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)|
 |June 21, 1pm sharp [here](https://us02web.zoom.us/j/87178886458?pwd=N3hkZVh2ak5kdHJyRkVJOVdoV2crQT09#success) |Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)|
 |June 24|Annegret Janzso| [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)|
 |July 1|Rricha Jalota| [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)|
 |July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)|
 |July 15|Nora Graichen|[Quantity doesn’t buy quality syntax with neural language models](https://www.aclweb.org/anthology/D19-1592.pdf)|
-
+|July 22, 1pm sharp|Axel Allén| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)|
 
 ---
 
@@ -66,7 +65,7 @@ Registration is first come first serve for those who fulfil the prerequisites; l
 There are usually two goals behind a seminar: **(1)** familiarize, and hopefully interest the attendees with the topic, and in particular, not only the paper assigned to each of them; **(2)** improve the attendees' skills of presentation. Thus all attendees will need to 
 
 - present a selected paper;
-- write a brief summary (2-3 pages) of Bertology as a research direction at the end of the seminar.
+- write a brief summary (2-3 pages) of Bertology as a research direction at the end of the seminar. Due **August 15th**.
 
 and of course, attend regularly.
 
