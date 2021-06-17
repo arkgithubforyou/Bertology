@@ -34,7 +34,8 @@ Reminder: the ACL anthology provides video recordings for the presentation of so
 |June 10|Sangeet Sagar| [Analyzing Multi-Head Self-Attention: Specialized Heads Do the Heavy Lifting, the Rest Can Be Pruned](https://www.aclweb.org/anthology/P19-1580.pdf)|
 |June 14|Leonie Harter| [What’s in a Name? Are BERT Named Entity Representations just as Good for any other Name?](https://www.aclweb.org/anthology/2020.repl4nlp-1.24/)|
 |June 17|Axel Allén| [Energy and Policy Considerations for Deep Learning in NLP](https://www.aclweb.org/anthology/P19-1355/)|
-|June 21, 1pm|Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations](https://www.aclweb.org/anthology/N19-1112/)|
+|June 21, 1pm
+https://us02web.zoom.us/j/87178886458?pwd=N3hkZVh2ak5kdHJyRkVJOVdoV2crQT09#success |Meng Li| [Linguistic Knowledge and Transferability of Contextual Representations][here](https://www.aclweb.org/anthology/N19-1112/)|
 |June 24|Annegret Janzso| [Climbing towards NLU: On Meaning, Form, and Understanding in the Age of Data](https://www.aclweb.org/anthology/2020.acl-main.463/)|
 |July 1|Rricha Jalota| [Can a Fruit Fly Learn Word Embeddings?](https://openreview.net/forum?id=xfmSoxdxFCG)|
 |July 8|Suruthai Noon Lywen Pokaratsiri Goldstein| [Revealing the Dark Secrets of BERT](https://www.aclweb.org/anthology/D19-1445/)|
