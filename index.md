@@ -69,7 +69,7 @@ There are usually two goals behind a seminar: **(1)** familiarize, and hopefully
 
 and of course, attend regularly.
 
-### Term Paper
+### Term Paper (Due Sep. 30th)
 There is in general no constraint on what you do other than relevance to the discipline. For example, you could
 1. Write a survey on a relevant topic or
 2. Raise a point and provide some empirical support or
