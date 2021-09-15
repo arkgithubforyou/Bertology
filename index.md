@@ -10,7 +10,7 @@ in [this](https://zoom.us/s/3679328022?pwd=TkYzSk5nNDdudCtPNnExUHVXTlEzQT09) zoo
 
 ---
 ### NOTE 
-The schedule has been updated according to the votes.
+Sep 15: All summaries have been received in time.
 
 
 ---
